@@ -18,7 +18,7 @@ Here, I craft spells from mathematics,
 whisper to neural networks,  
 and bend cloud architectures to my will.
 
-Step carefully — inspiration tends to glow on the floor ✨
+Step carefully - inspiration tends to glow on the floor ✨
 
 ---
 
@@ -36,7 +36,9 @@ Step carefully — inspiration tends to glow on the floor ✨
 - Machine Learning  
 - Deep Learning  
 - NLP Spells & Text Incantations  
-- TensorFlow • PyTorch • Scikit-Learn  
+- TensorFlow • PyTorch • Scikit-Learn
+- LLM
+- RAG 
 
 ### 🌐 Cloud & Tools
 - AWS • Azure • GCP  
