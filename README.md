@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Engineer | LLM & Generative AI Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=canvasandcodes&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=canvasandcodes&color=CD7F32" alt="Profile views"/>
 </p>
 
 <p align="center"><em>
