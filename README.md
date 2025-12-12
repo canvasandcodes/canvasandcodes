@@ -22,32 +22,26 @@ Step carefully - inspiration tends to glow on the floor ✨
 
 ---
 
-## 🚀 Animated Stats & Motion Magic
-
-These sections use dynamic SVG images to show your activity, languages, and contribution streak. **(Remember to replace `YOUR_GITHUB_USERNAME` with `NamitaS`!)**
-
 ### 📊 GitHub Activity & Stats Card
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&rank_icon=github" 
-       alt="Namita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=canvasandcodes&show_icons=true&theme=dark&rank_icon=github" 
+       alt="canvasandcodes GitHub Stats" />
 </p>
 
 ### 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canvasandcodes&layout=compact&theme=vision-friendly-dark" 
-       alt="Namita's Top Languages" />
+       alt="canvasandcodes Top Languages" />
 </p>
 
 ### 📈 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvasandcodes=highcontrast"
-       alt="Namita's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvasandcodes&theme=highcontrast"
+       alt="canvasandcodes Streak" />
 </p>
-
----
 
 ## 🪄 Wave Your Wand to Reveal My Skills
 
