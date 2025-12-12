@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Namita, The Enchantress of AI ✨</h1>
+<h1 align="center">Hi, I am Namita✨</h1>
 <h3 align="center">AI & ML Engineer | LLM & Generative AI Specialist</h3>
 
 <p align="center">
