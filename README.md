@@ -35,10 +35,10 @@ Step carefully - inspiration tends to glow on the floor ✨
     <td align="center">
       <h3>🧠 LLM & Deep Learning</h3>
       <p>
-        <img src="https://img.shields.io/badge/RAG%20Pipelines-A90FDD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2IDU2Yy0xMDkuNyAwLTI1Ni03LTI1NiAxODggMCAxODkuNiAxNDcuMiAxMzQgMjU2IDExMSAxMDguOCAyMyAyNTYgNTMgMjU2LTExMVMzNjUuNyA1NiAyNTYgNTZ6bTI1NiAxODh2NDBjMCA0Mi40LTc4LjUgNDktMTI4IDQ3LTY4LjktMi0xMjguMy02LTMyMC03di00MWMxMy42LTE2LjggMzguNi01NiA4MC0xMTkgNjcuMi04MC44IDE2Ni04MiAxOTIuNS04My45IDMyLjUtMi40IDU4LjUtMS4xIDc0LjgtLjJ6IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmcgPg==" alt="RAG Pipelines Badge">
-        <img src="https://img.shields.io/badge/LLMs%20(LangChain)-A90FDD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE2LjA3MSAxMC4wMjFsLTMuMjQyIDMuMjQyLTQuMTQ2LTQuMTQ2LTQgNC0uODgzLS44ODMgNiA2eiIgZmlsbD0iIzFmZjFmZiIvPjxwYXRoIGQ9Ik00IDIwLjE0NyAxOS44OTIgNC45NDcgMTYuODMgMS43MThMMS41ODUgMTYuMjY4eiIgZmlsbD0iIzFmZjFmZiIvPjxwYXRoIGQ9Ik0xOC40MTEgMTQuOTExTDkuOTk5IDYuNDk5bDEuNDEyLTEuNDEyIDguNDE1IDguNDE1eiIgZmlsbD0iIzFmZjFmZiIvPjxwYXRoIGQ9Ik0xMiAyQzYuNDc3IDIgMiA2LjQ3NyAyIDEycy00LjQ3NyAxMCAxMCAxMHMyLTEyIDEwLTEycy0xMC00LjQ3Ny0xMC0xMHoiIGZpbGw9IiMxZmYxZmYiLz48L3N2ZyA%3D&logoColor=white" alt="LLMs LangChain Badge">
+        <img src="https://img.shields.io/badge/RAG%20Pipelines-A90FDD?style=for-the-badge" alt="RAG Pipelines Badge">
+        <img src="https://img.shields.io/badge/LangChain%20%26%20LLMs-0E76A8?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain & LLMs Badge">
         <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning Badge">
-        <img src="https://img.shields.io/badge/Vector%20DBs-424242?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2IDU2Yy0xMDkuNyAwLTI1Ni03LTI1NiAxODggMCAxODkuNiAxNDcuMiAxMzQgMjU2IDExMSAxMDguOCAyMyAyNTYgNTMgMjU2LTExMVMzNjUuNyA1NiAyNTYgNTZ6bTI1NiAxODh2NDBjMCA0Mi40LTc4LjUgNDktMTI4IDQ3LTY4LjktMi0xMjguMy02LTMyMC03di00MWMxMy42LTE2LjggMzguNi01NiA4MC0xMTkgNjcuMi04MC44IDE2Ni04MiAxOTIuNS04My45IDMyLjUtMi40IDU4LjUtMS4xIDc0LjgtLjJ6IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmcgPg==" alt="VectorDB Badge">
+        <img src="https://img.shields.io/badge/Vector%20DBs-424242?style=for-the-badge" alt="VectorDB Badge">
       </p>
     </td>
     <td align="center">
@@ -64,9 +64,15 @@ May your ideas find wings, your code run without errors, and your curiosity guid
 </em></p>
 
 <p align="center">
-  <a href="mailto:namitasaaranga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" title="namitasaaranga@gmail.com"></a>
-  <a href="www.linkedin.com/in/namita-s-311b3120a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="linkedin.com/in/namita-s"></a>
-  <a href="https://github.com/canvasandcodes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" title="github.com/canvasandcodes"></a>
+  <a href="mailto:namitasaaranga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" title="namitasaaranga@gmail.com">
+  </a>
+  <a href="https://www.linkedin.com/in/namita-s-311b3120a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="linkedin.com/in/namita-s-311b3120a">
+  </a>
+  <a href="https://github.com/canvasandcodes">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" title="github.com/canvasandcodes">
+  </a>
 </p>
 
 <p align="center"><strong>
